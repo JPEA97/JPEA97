@@ -1,5 +1,5 @@
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm JP</h1>
-<h3 align="left">An aspiring software engineer from Mexico</h3>
+<h2 align="left">An aspiring software engineer from Mexico</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
