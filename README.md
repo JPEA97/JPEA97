@@ -45,7 +45,7 @@
 
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="git" width="40" height="40"/> 
 </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/" alt="mysql" width="40" height="40"/> 
 </a> 
 
 
