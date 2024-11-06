@@ -2,14 +2,14 @@
 <h2 align="left">An aspiring software engineer from Mexico</h2>
 
 
-<h3 align="left">About me:</h3>
+<h3 align="left">- About me:</h3>
 <p>I'm a Computer Systems student, passionate about technology and innovation. I’m currently seeking an internship or job opportunity in the tech industry where I can specialize in a specific area, as my knowledge is currently more general.</p>
 
 
 
 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">- Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -26,7 +26,7 @@
  <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="git" width="40" height="40"/> 
 </a>
  
-<h3 align="left">Technologies:</h3>
+<h3 align="left">- Technologies:</h3>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="git" width="40" height="40"/> 
@@ -39,7 +39,7 @@
 </a>
 
 
-<h3 align="left">Libraries/Frameworks:</h3>
+<h3 align="left">- Libraries/Frameworks:</h3>
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
 </a> 
 <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
