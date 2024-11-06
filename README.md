@@ -2,6 +2,8 @@
 <h2 align="left">An aspiring software engineer from Mexico</h2>
 
 
+<h3 align="left">About me:</h3>
+<p>I'm passionate about technology and innovation. I’m currently seeking an internship or job opportunity in the tech industry where I can specialize in a specific area, as my knowledge is currently more general.</p>
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
