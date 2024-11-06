@@ -3,13 +3,12 @@
 
 
 <h3 align="left">About me:</h3>
-<p>I'm passionate about technology and innovation. I’m currently seeking an internship or job opportunity in the tech industry where I can specialize in a specific area, as my knowledge is currently more general.</p>
+<p>I'm a Computer Systems student, passionate about technology and innovation. I’m currently seeking an internship or job opportunity in the tech industry where I can specialize in a specific area, as my knowledge is currently more general.</p>
 
 
 
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
-<br>
+
 <h3 align="left">Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a>
