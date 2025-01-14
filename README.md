@@ -3,7 +3,7 @@
 
 
 <h3 align="left">- About me:</h3>
-<p>I'm a Computer Systems student, passionate about technology and innovation. I’m currently seeking an internship or job opportunity in the tech industry where I can specialize in a specific area, as my knowledge is currently more general.</p>
+<p>I'm a Computer Systems student, passionate about technology and innovation.</p>
 
 
 
